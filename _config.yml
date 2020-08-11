@@ -21,13 +21,12 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
-  exclude:
-    archived: false
-    forks: true
-
- social_media:
-  linkedin: manavbhatia20
+    limit: 9
+    exclude:
+        archived: false
+        forks: true
+    social_media:
+        linkedin: manavbhatia20
   # medium: your_username
   # vk: your_username
   # website: http://your_website_url
